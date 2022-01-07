@@ -1,0 +1,77 @@
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #27374c;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #d6a41ae7;
+  font-weight: bold;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.p-title {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 1rem 0;
+  text-transform: uppercase;
+}
+
+.btn-important {
+  display: inline-block;
+  padding: 0.8rem 4rem;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  font-weight: bold;
+  border: solid 2px #27374c;
+  cursor: pointer;
+}
+
+.btn-important:hover {
+  padding: 0.8rem 8rem;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  color: #27374c;
+}
+
+.btn-ver-carta {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+  color: #d6a41ae7;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 1rem 0;
+}
+
+.btn-ver-carta:hover {
+  color: #27374c;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.item-text-category {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+
+.item-text-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 2rem 0;
+  padding: 0 1rem;
+}
+
+.item-text-description {
+  padding: 0 1rem;
+}
+
+.item-text-price {
+  margin-top: auto;
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+  padding-right: 1rem;
+}
+/*# sourceMappingURL=utilities.css.map */

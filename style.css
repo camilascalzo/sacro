@@ -140,7 +140,7 @@ body {
 }
 
 body #header-index {
-  background: url("/img/sacro-main/sacro-main.jpeg") no-repeat center/cover;
+  background: url("img/sacro-main/sacro-main.jpeg") no-repeat center/cover;
   height: 80vh;
 }
 

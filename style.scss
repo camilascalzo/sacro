@@ -20,7 +20,7 @@ body {
     #header {
         &-index {
             #main-nav {@extend %nav-main;}
-            background: url("/img/sacro-main/sacro-main.jpeg") no-repeat center/cover;
+            background: url("img/sacro-main/sacro-main.jpeg") no-repeat center/cover;
             height: 80vh;
             
             // #index-hero {
